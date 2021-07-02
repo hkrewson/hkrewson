@@ -1,7 +1,8 @@
 ![Header](https://github.com/hkrewson/hkrewson/raw/main/Banner.png "Header")
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<hkrewson>" />
+[![Hamlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkrewson)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **hkrewson/hkrewson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
