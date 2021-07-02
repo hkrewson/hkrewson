@@ -3,7 +3,7 @@
 
 [![Hamlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkrewson&show_icons=true&theme=dark)](https://github.com/hkrewson/github-readme-stats)
 
-
+Hey there 👋,
 
 <!--
 **hkrewson/hkrewson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
