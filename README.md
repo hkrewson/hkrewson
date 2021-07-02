@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/hkrewson/<OWNER>/<OWNER>/Banner.png "Header")]
+[![Header](https://github.com/hkrewson/hkrewson/raw/main/Banner.png "Header")]
 
 <!--
 **hkrewson/hkrewson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
