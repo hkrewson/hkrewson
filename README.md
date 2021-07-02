@@ -1,7 +1,7 @@
 ![Header](https://github.com/hkrewson/hkrewson/raw/main/Banner.png "Header")
 
 
-[![Hamlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkrewson&show_icons=true)](https://github.com/hkrewson/github-readme-stats)
+[![Hamlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkrewson&show_icons=true&theme=dark)](https://github.com/hkrewson/github-readme-stats)
 
 
 
