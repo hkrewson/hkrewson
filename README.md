@@ -23,6 +23,9 @@ This was basically the thing that got me started with shell scripting, and is th
 
 #### Snipe-It
 A few python scripts for working with the Snipe-It api. Relies on [jbloomer](https://github.com/jbloomer)'s excellent [SnipeIt Python API](https://github.com/jbloomer/SnipeIT-PythonAPI).
+
+#### [Airtable](https://airtable.com/universe/creator/usrFvwI80rmItQ4jf/hamlin-krewson)
+As a known glutton for self punishment, I also do Airtable bases. 
 <!--
 **hkrewson/hkrewson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
