@@ -9,7 +9,7 @@ Welcome to my GitHub. I'm kind of a rabbit-hole developer. Meaning, I get an ide
 
 ### The Repos
 
-#### kRMM
+#### [kRMM](https://github.com/hkrewson/kRMM)
 At the moment, the most active repo here is going to be kRMM. This is where I'm uploading scripts for remote monitoring and management, and may include scripts for use in mdm solutions or rmm solutions.
 
 #### sysinfo
