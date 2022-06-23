@@ -7,6 +7,8 @@ Hey there 👋,
 
 Welcome to my GitHub. I'm kind of a rabbit-hole developer. Meaning, I get an idea and get lost in it until I find the solution (rabbit). 
 
+You can also find me at my [AOEU Repo](https://github.com/hamlinkrewson)
+
 ### The Repos
 
 #### [kRMM](https://github.com/hkrewson/kRMM)
